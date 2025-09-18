@@ -1,0 +1,4 @@
+track_no,title,artist,dance_style,tempo_display,meter,tempo_bpm,duration_sec,remarks
+1,"Blue Danube","JDSF Orchestra","Waltz","29 bars/min","3/4",87,210,"イントロ長め"
+2,"Tango Example","JDSF Orchestra","Tango","31 bars/min","2/4",124,185,""
+3,"Quickstep Sample","JDSF Orchestra","Quickstep","50 bars/min","4/4",200,170,""

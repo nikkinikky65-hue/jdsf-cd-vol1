@@ -1,4 +1,4 @@
-,,,,,,,,
+title,artist,dance_style,tempo_display,meter,tempo_bpm,duration_sec,remarks
 Diamond Of Night,Waltz,29BPM,3:00,,,,,
 Anticipation,Waltz,29BPM,3:11,,,,,
 Once You Had Gold,Waltz,28BPM,3:15,,,,,
@@ -22,4 +22,5 @@ Song From A Secret Garden,Rumba,25BPM,2:54,,,,,
 Don’t Be So Shy,Rumba,25BPM,3:07,,,,,
 España Cañí,Paso Doble,60BPM,2:05,,,,,
 Wait And See,Jive,43BPM,2:30,,,,,
+
 The Boy Does Nothing,Jive,44BPM,1:53,,,,,
